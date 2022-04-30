@@ -1,0 +1,2 @@
+json is dictornary
+stores is not dictornary it is list   jsonify({'stores':stores})
